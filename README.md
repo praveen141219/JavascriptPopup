@@ -19,9 +19,8 @@
 - 📫 How to reach me **yadavpraveen1023@gmail.com**
 
 coonect with me
-<p align="left"> <a href="https://www.linkedin.com/in/praveen-yadav-413536125/"><img height = "30px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="praveen141219" /></a> </p>
-<p align="left"> <a href="https://twitter.com/pr__veen"><img height = "30px" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" alt="praveen141219" /></a> </p>
-<p align="center"> <a href="https://www.instagram.com/pr__veen/"><img height = "30px" src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-256.png" alt="praveen141219" /></a> </p>
+coonect with me
+<p align="left"> <a href="https://www.linkedin.com/in/praveen-yadav-413536125/" target="_blank"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="40" height="40"/> </a> <a href="https://twitter.com/pr__veen" target="_blank"> <img src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" width="40" height="40"/> </a> <a href="https://www.instagram.com/pr__veen/" target="_blank"> <img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-256.png" width="40" height="40"/> </a> </p>
 
 
 
