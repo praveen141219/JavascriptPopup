@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Pattaya&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+body {
+  height: 100vh;
+  font-family: "Pattaya", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background: #f8c291;
+}
+
+.btn {
+  font-size: 25px;
+  font-family: "Pattaya", sans-serif;
+  border-radius: 8px;
+  border: none;
+  background: #e55039;
+  color: white;
+  padding: 15px 40px;
+  cursor: pointer;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.btn:active {
+  box-shadow: 10px 5px 20px rgba(0, 0, 0, 0.5);
+}
+.overlay {
+  display: none;
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  background: rgba(255, 0, 0, 0.2);
+}
+.overlay.active {
+  display: block;
+}
+h3 {
+  font-size: 40px;
+  color: #fff;
+  position: absolute;
+  top: 10%;
+  left: 35%;
+}
+.textContainer {
+  width: 45rem;
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  padding: 30px;
+  background: #f8c291;
+  color: #e55039;
+  text-align: justify;
+}
+.close {
+  position: absolute;
+  top: 10%;
+  right: 10%;
+  font-size: 40px;
+  color: white;
+  cursor: pointer;
+}
